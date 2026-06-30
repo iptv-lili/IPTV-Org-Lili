@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Cazé TV 1 HD" tvg-logo="" tvg-id="" tvg-chno="1" tvg-country="BR" group-title="CazéTV",
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura Belém PA HD" tvg-logo="" tvg-id="" tvg-chno="2" tvg-country="BR" group-title="Abertos",SBT Ⓨ
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RecordTV Belém HD" tvg-logo="" tvg-id="RecordNews.br" tvg-chno="7" tvg-country="BR" group-title="Record",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4895
+
+#EXTINF:-1 tvg-name="RBATV - Belém Pará" tvg-logo="" tvg-id="" tvg-chno="8" tvg-country="BR" group-title="Brazil",
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CazéTV 2 HD" tvg-logo="" tvg-id="" tvg-chno="9" tvg-country="BR" group-title="Abertos",
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="CazéTV 3 FHD" tvg-logo="" tvg-id="" tvg-chno="10" tvg-country="BR" group-title="Abertos",
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="CazéTV 4 FHD" tvg-logo="" tvg-id="" tvg-chno="11" tvg-country="BR" group-title="Brazil",
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="CazéTV 5 FHD" tvg-logo="" tvg-id="" tvg-chno="9" tvg-country="BR" group-title="Abertos",
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura" tvg-logo="" tvg-id="" tvg-chno="12" tvg-country="BR" group-title="Abertos",
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere2" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4887
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere3" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4888
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere4" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4889
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere5" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4890
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere6" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4891
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4892
+
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" group-title="Record",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4895
+#EXTINF:-1 tvg-id="" tvg-name="SporTv 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="Esportes",BR: SPORTV 1
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4902
+#EXTINF:-1 tvg-id="" tvg-name="SporTv 2" tvg-logo="" group-title="Esportes",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4903
+#EXTINF:-1 tvg-id="" tvg-name="SporTv 3" tvg-logo="" group-title="Esportes",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4904
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="" group-title="Telecine",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4909
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="" group-title="Telecine",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4910
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="" group-title="Telecine",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4911
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="" group-title="Telecine",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4912
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="" group-title="Telecine",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4913
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="" group-title="Telecine",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4914
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RJ" tvg-logo="" group-title="Record",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58729
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS" tvg-logo="" group-title="Record",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58730
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="" group-title="Record",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58731
