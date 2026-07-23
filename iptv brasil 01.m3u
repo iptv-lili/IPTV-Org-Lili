@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Cazé TV 1 HD" tvg-logo="" tvg-id="" tvg-chno="1" tvg-country="BR" group-title="CazéTV",
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-name="TV Cultura Belém PA HD" tvg-logo="" tvg-id="" tvg-chno="2" tvg-country="BR" group-title="Abertos",SBT Ⓨ
+#EXTINF:-1 tvg-name="TV Cultura Belém PA HD" tvg-logo="" tvg-id="" tvg-chno="2" tvg-country="BR" group-title="Abertos",
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RBATV - Belém Pará" tvg-logo="" tvg-id="" tvg-chno="8" tvg-country="BR" group-title="Brazil",
