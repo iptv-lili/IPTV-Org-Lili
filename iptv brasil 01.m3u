@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Cazé TV 1 HD" tvg-logo="" tvg-id="" tvg-chno="1" tvg-country="BR" group-title="CazéTV",
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura Belém PA HD" tvg-logo="" tvg-id="" tvg-chno="2" tvg-country="BR" group-title="Abertos",SBT Ⓨ
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RBATV - Belém Pará" tvg-logo="" tvg-id="" tvg-chno="8" tvg-country="BR" group-title="Brazil",
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura" tvg-logo="" tvg-id="" tvg-chno="12" tvg-country="BR" group-title="Abertos",
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere2" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4887
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="Premiere",
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4892
+
+@Olivaldinho_Oficial
