@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Cazé TV SD" tvg-logo="https://logospng.org/download/cazetv/caze-tv-256.png" tvg-id="" tvg-chno="1" tvg-country="BR" group-title="Canais / CazéTV", Cazé TV SD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-name="Cultura Belém" tvg-logo="https://share.google/MC6s48Y8PDIgOECkA.png" tvg-id="" tvg-chno="2" tvg-country="BR" group-title="Canais / Abertos", Cultura Belém
+#EXTINF:-1 tvg-name="Cultura Belém" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/500px-Cultura_logo_2013.svg.png" tvg-id="" tvg-chno="2" tvg-country="BR" group-title="Canais / Abertos", Cultura Belém
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RBATV Belém" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/Logotipo_da_RBATV.png/960px-Logotipo_da_RBATV.png" tvg-id="" tvg-chno="8" tvg-country="BR" group-title="Canais / Abertos", RBATV Belém
