@@ -1,11 +1,20 @@
-<tv generator-info-name="MeuGuiaIPTV">
-<channel id="CazéTV.br">
-<display-name lang="pt">Cazé TV SD</display-name>
-<icon src="https://i.imgur.com/BatygW5.png"/>
-</channel>
-<programme start="20260328180000 -0300" stop="20260328190000 -0300" channel="teste1.br">
-<title lang="pt">Título do Programa</title>
-<desc lang="pt">Descrição detalhada do que vai passar.</desc>
-<category lang="pt">Entretenimento</category>
-</programme>
-</tv>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cazé TV SD">
+    <display-name lang="pt">Cazé TV SD</display-name>
+  </channel>
+  <channel id="Cultura Belém">
+    <display-name lang="pt">Cultura Belém</display-name>
+  </channel>
+    <channel id="RBATV Belém">
+    <display-name lang="pt">RBATV Belém</display-name>
+  </channel>
+  <channel id="Cultura SD">
+    <display-name lang="pt">Cultura SD</display-name>
+  </channel>
+    <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+  </channel>
+  <channel id="Premiere 1">
+    <display-name lang="pt">Premiere 1</display-name>
+  </channel>
