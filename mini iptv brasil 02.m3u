@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,TV CULTURA PA
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1,RBATV BELEM
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1,PREMIERE 2 SD
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4887
+
+#EXTINF:-1,PREMIERE 1 SD
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4892
