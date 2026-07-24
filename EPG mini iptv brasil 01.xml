@@ -23,4 +23,5 @@
     <channel id="Premiere 1">
     <display-name lang="pt">Premiere 2</display-name>
     <url>http://www.netcombo.com.br</url>
-  </channel>
+   <channels>		
+</settings>
