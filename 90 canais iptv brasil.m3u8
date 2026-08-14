@@ -103,13 +103,13 @@ http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4902
 https://www.sistemafloresta.com.br/sbtaovivo/
 #EXTINF:-1,caze tv sd
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1,tv cultura belem para 1080i
+#EXTINF:-1,tv cultura belem para hd 720p
  http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1,rba tv belem 1080i
+#EXTINF:-1,rba tv belem hd 720p
  https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1,premiere2 fhd
+#EXTINF:-1,premiere2 fhd h265
  http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4887
-#EXTINF:-1,premiere clubes fhd
+#EXTINF:-1,premiere clubes fhd h265
  http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4892
 #EXTINF:-1,tv cultura sp hd 720i
  https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
