@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RBATV Belém 35 VHF" aspect-ratio="4:3" group-title="Classic",RBATV Belém 35 VHF
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura Belém 41 VHF" aspect-ratio="4:3" group-title="Classic",TV Cultura Belém 41 VHF
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
