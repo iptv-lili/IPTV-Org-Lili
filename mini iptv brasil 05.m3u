@@ -22,4 +22,10 @@ http://www.sistemafloresta.com.br/mono/tv_floresta/playlist.m3u8
  http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4904
 #EXTINF:-1,Sportv1
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4902
-
+###RÁDIOS###
+#EXTINF:-1,Rádio 99 FM Belém
+https://www.radios.com.br/play/playlist/8901/listen-radio.m3u
+#EXTINF:-1,Floresta FM 104.7MHZ
+https://www.radios.com.br/play/playlist/8726/listen-radio.m3u
+#EXTINF:-1,Energia FM 97.5
+https://www.radios.com.br/play/playlist/19362/listen-radio.m3u
