@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,TV Liberal Belém PA HD
+http://redeglobo.globo.com/pa/tvliberal/
+#EXTINF:-1,TV Cultura Belém PA HD
+https://www.portalcultura.com.br/
+#EXTINF:-1,RBATV Belém PA HD
+https://rbatv.dol.com.br/
+#EXTINF:-1,Premiere Clubes HD
+http://globotv.globo.com/sportv/premiere-clubes/
+#EXTINF:-1,Premiere 2 HD
+http://premierefc.globo.com/
+#EXTINF:-1,Premiere 3 HD
+http://premierefc.globo.com/
+#EXTINF:-1,Premiere 4 HD
+http://premierefc.globo.com/
+#EXTINF:-1,RecordTV Belém HD 720i
+http://recordtv.r7.com/
