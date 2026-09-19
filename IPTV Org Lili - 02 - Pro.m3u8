@@ -1,1 +1,914 @@
-
+#EXTM3U
+#EXTINF:-1,TV Cultura HD Belém
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1,RBATV Belém Pará
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+EXTINF:-1,TV Cultura 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103513.ts
+#EXTINF:-1,TV Cultura FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71851.ts
+#EXTINF:-1,TV Cultura FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71852.ts
+#EXTINF:-1,TV Cultura HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71853.ts
+#EXTINF:-1,TV Cultura SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71854.ts
+#EXTINF:-1,Premiere 2 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103482.ts
+#EXTINF:-1,Premiere 2 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72237.ts
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72238.ts
+#EXTINF:-1,Premiere 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72239.ts
+#EXTINF:-1,Premiere 2 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72240.ts
+#EXTINF:-1,Premiere 3 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103481.ts
+#EXTINF:-1,Premiere 3 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72241.ts
+#EXTINF:-1,Premiere 3 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72242.ts
+#EXTINF:-1,Premiere 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72243.ts
+#EXTINF:-1,Premiere 3 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72244.ts
+#EXTINF:-1,Premiere 4 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103480.ts
+#EXTINF:-1,Premiere 4 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72245.ts
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72246.ts
+#EXTINF:-1,Premiere 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72247.ts
+#EXTINF:-1,Premiere 4 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72248.ts
+#EXTINF:-1,Premiere 5 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103479.ts
+#EXTINF:-1,Premiere 5 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72249.ts
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72250.ts
+#EXTINF:-1,Premiere 5 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72251.ts
+#EXTINF:-1,Premiere 5 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72252.ts
+#EXTINF:-1,Premiere 6 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103478.ts
+#EXTINF:-1,Premiere 6 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72253.ts
+#EXTINF:-1,Premiere 6 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72254.ts
+#EXTINF:-1,Premiere 6 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72255.ts
+#EXTINF:-1,Premiere 6 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72256.ts
+#EXTINF:-1,Premiere 7 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103477.ts
+#EXTINF:-1,Premiere 7 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72257.ts
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72258.ts
+#EXTINF:-1,Premiere 7 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72259.ts
+#EXTINF:-1,Premiere 7 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72260.ts
+#EXTINF:-1,Premiere 8 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/180162.ts
+#EXTINF:-1,Premiere 8 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/180158.ts
+#EXTINF:-1,Premiere 8 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/180161.ts
+#EXTINF:-1,Premiere 8 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/180159.ts
+#EXTINF:-1,Premiere 8 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/180160.ts
+#EXTINF:-1,Premiere Clubes 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/72264.ts
+#EXTINF:-1,Premiere Clubes FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72262.ts
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72263.ts
+#EXTINF:-1,Premiere Clubes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72265.ts
+#EXTINF:-1,Premiere Clubes SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72266.ts
+#EXTINF:-1,Telecine Action 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/90239.ts
+#EXTINF:-1,Telecine Action FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72346.ts
+#EXTINF:-1,Telecine Action FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72347.ts
+#EXTINF:-1,Telecine Action FHD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90668.ts
+#EXTINF:-1,Telecine Action HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72348.ts
+#EXTINF:-1,Telecine Action HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90667.ts
+#EXTINF:-1,Telecine Action SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72349.ts
+#EXTINF:-1,Telecine Action SD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90666.ts
+#EXTINF:-1,Telecine Cult 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103456.ts
+#EXTINF:-1,Telecine Cult FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72350.ts
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72351.ts
+#EXTINF:-1,Telecine Cult FHD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90665.ts
+#EXTINF:-1,Telecine Cult HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72352.ts
+#EXTINF:-1,Telecine Cult HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90664.ts
+#EXTINF:-1,Telecine Cult SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72353.ts
+#EXTINF:-1,Telecine Cult SD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90663.ts
+#EXTINF:-1,Telecine Fun 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103455.ts
+#EXTINF:-1,Telecine Fun FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72354.ts
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72355.ts
+#EXTINF:-1,Telecine Fun FHD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90662.ts
+#EXTINF:-1,Telecine Fun HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72356.ts
+#EXTINF:-1,Telecine Fun HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90661.ts
+#EXTINF:-1,Telecine Fun SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72357.ts
+#EXTINF:-1,Telecine Fun SD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90660.ts
+#EXTINF:-1,Telecine Pipoca 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/90238.ts
+#EXTINF:-1,Telecine Pipoca FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72358.ts
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72359.ts
+#EXTINF:-1,Telecine Pipoca FHD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90659.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72360.ts
+#EXTINF:-1,Telecine Pipoca HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90658.ts
+#EXTINF:-1,Telecine Pipoca SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72361.ts
+#EXTINF:-1,Telecine Pipoca SD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90657.ts
+#EXTINF:-1,Telecine Premium 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/90237.ts
+#EXTINF:-1,Telecine Premium FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72362.ts
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72363.ts
+#EXTINF:-1,Telecine Premium FHD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90656.ts
+#EXTINF:-1,Telecine Premium HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72364.ts
+#EXTINF:-1,Telecine Premium HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90655.ts
+#EXTINF:-1,Telecine Premium SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72365.ts
+#EXTINF:-1,Telecine Premium SD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90654.ts
+#EXTINF:-1,Telecine Touch 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103454.ts
+#EXTINF:-1,Telecine Touch FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72366.ts
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72367.ts
+#EXTINF:-1,Telecine Touch FHD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90653.ts
+#EXTINF:-1,Telecine Touch HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72368.ts
+#EXTINF:-1,Telecine Touch HD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90652.ts
+#EXTINF:-1,Telecine Touch SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72369.ts
+#EXTINF:-1,Telecine Touch SD [LEG]
+http://tjtor8411.com:80/Osiel123/Felicidade321/90651.ts#EXTINF:-1,TV Aparecida 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103464.ts
+#EXTINF:-1,TV Aparecida FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72394.ts
+#EXTINF:-1,TV Aparecida FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72395.ts
+#EXTINF:-1,TV Aparecida HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72396.ts
+#EXTINF:-1,TV Aparecida SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72397.ts
+#EXTINF:-1,TV Brasil 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103463.ts
+#EXTINF:-1,TV Brasil FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72399.ts
+#EXTINF:-1,TV Brasil FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72400.ts
+#EXTINF:-1,TV Brasil HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72401.ts
+#EXTINF:-1,TV Cancao Nova SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72404.ts
+#EXTINF:-1,TV Cidade - RecordTV 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103462.ts
+#EXTINF:-1,TV Cidade RecordTV FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/92666.ts
+#EXTINF:-1,TV Cidade - RecordTV FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/92667.ts
+#EXTINF:-1,TV Cidade RecordTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/92668.ts
+#EXTINF:-1,TV Cidade RecordTV SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/92669.ts
+#EXTINF:-1,TV Gazeta FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/104919.ts
+#EXTINF:-1,TV Gazeta SP 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/178520.ts
+#EXTINF:-1,TV Gazeta SP FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104917.ts
+#EXTINF:-1,TV Gazeta SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72406.ts
+#EXTINF:-1,TV Gazeta SP SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104918.ts
+#EXTINF:-1,TV Gazeta SP [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/178519.ts
+#EXTINF:-1,TV Novo Tempo 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103459.ts
+#EXTINF:-1,TV Novo Tempo FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72408.ts
+#EXTINF:-1,TV Novo Tempo FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72409.ts
+#EXTINF:-1,TV Novo Tempo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72410.ts
+#EXTINF:-1,TV Novo Tempo SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72411.tsEXTINF:-1,SporTV 4 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/276089.ts
+#EXTINF:-1,SporTV 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/276090.ts
+#EXTINF:-1,SporTV 4 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/276091.ts
+#EXTINF:-1,SporTV 4 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/276092.ts
+#EXTINF:-1,SporTV 4 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/276093.ts#EXTINF:-1,SporTV 2 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103472.ts
+#EXTINF:-1,SporTV 2 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72321.ts
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/131147.ts
+#EXTINF:-1,SporTV 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131176.ts
+#EXTINF:-1,SporTV 2 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72324.ts
+#EXTINF:-1,SporTV 3 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72325.ts
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72326.ts
+#EXTINF:-1,SporTV 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131113.ts
+#EXTINF:-1,SporTV 3 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131108.ts
+#EXTINF:-1,SporTV 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/131188.ts
+#EXTINF:-1,SporTV FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72329.ts
+#EXTINF:-1,SporTV FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72330.ts
+#EXTINF:-1,SporTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72332.ts
+#EXTINF:-1,SporTV SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131132.ts
+#EXTINF:-1,SporTV3 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103471.ts#EXTINF:-1,Disney + 1 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142032.ts
+#EXTINF:-1,Disney + 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/128347.ts
+#EXTINF:-1,Disney + 1 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142033.ts
+#EXTINF:-1,Disney + 2 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142034.ts
+#EXTINF:-1,Disney + 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/129345.ts
+#EXTINF:-1,Disney + 2 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142035.ts
+#EXTINF:-1,Disney + 3 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142036.ts
+#EXTINF:-1,Disney + 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/129346.ts
+#EXTINF:-1,Disney + 3 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142037.ts
+#EXTINF:-1,Disney + 4 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142038.ts
+#EXTINF:-1,Disney + 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/129347.ts
+#EXTINF:-1,Disney + 4 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/142039.ts#EXTINF:-1,Record News 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/178523.ts
+#EXTINF:-1,Record News FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72271.ts
+#EXTINF:-1,Record News FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/178522.ts
+#EXTINF:-1,Record News HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72272.ts
+#EXTINF:-1,Record News SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72273.ts
+#EXTINF:-1,RecordTV Itapoan FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/157406.ts
+#EXTINF:-1,RecordTV Itapoan HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72284.ts
+#EXTINF:-1,RecordTV Itapoan SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72285.ts
+#EXTINF:-1,RecordTV RJ FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/106638.ts
+#EXTINF:-1,RecordTV RJ HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72594.ts
+#EXTINF:-1,RecordTV RJ SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/96526.ts
+#EXTINF:-1,RecordTV SP FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/77654.ts
+#EXTINF:-1,RecordTV SP FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/72595.ts
+#EXTINF:-1,RecordTV SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72973.ts
+#EXTINF:-1,RecordTV SP SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/96522.tsEXTINF:-1,Globo Brasilia FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131151.ts
+#EXTINF:-1,Globo Brasilia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131164.ts
+#EXTINF:-1,Globo Brasilia SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131116.ts
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131150.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71977.ts
+#EXTINF:-1,Globo EPTV Campinas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131210.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131172.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131178.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131202.ts
+#EXTINF:-1,Globo EPTV Sao Carlos FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131141.ts
+#EXTINF:-1,Globo EPTV Sao Carlos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131129.ts
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72592.ts
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71979.ts
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71980.ts
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131201.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71982.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71983.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131131.ts
+#EXTINF:-1,Globo Inter TV Cabugi FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71985.ts
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71986.ts
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131186.ts
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131143.ts
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71989.ts
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71990.ts
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71991.ts
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131115.ts
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131114.ts
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71994.ts
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71995.ts
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71996.ts
+#EXTINF:-1,Globo Minas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131200.ts
+#EXTINF:-1,Globo Minas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131159.ts
+#EXTINF:-1,Globo Minas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131209.ts
+#EXTINF:-1,Globo News 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/90248.ts
+#EXTINF:-1,Globo News FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71997.ts
+#EXTINF:-1,Globo News FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71998.ts
+#EXTINF:-1,Globo News HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71999.ts
+#EXTINF:-1,Globo News SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131112.ts
+#EXTINF:-1,Globo Nordeste FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72001.ts
+#EXTINF:-1,Globo Nordeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131157.ts
+#EXTINF:-1,Globo Nordeste SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72003.ts
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72004.ts
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72005.ts
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131192.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135432.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135433.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135434.ts
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131174.ts
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72008.ts
+#EXTINF:-1,Globo NSC TV Chapeco SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131190.ts
+#EXTINF:-1,Globo NSC TV Criciuma FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135426.ts
+#EXTINF:-1,Globo NSC TV Criciuma HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135427.ts
+#EXTINF:-1,Globo NSC TV Criciuma SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135428.ts
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72010.ts
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131183.ts
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131144.ts
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91034.ts
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131167.ts
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91032.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131160.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72014.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131130.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133064.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133065.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133066.ts
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72617.ts
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131121.ts
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131207.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131102.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72017.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131198.ts
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135423.ts
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135424.ts
+#EXTINF:-1,Globo RBS TV Santa Maria SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/135425.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133055.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133056.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133057.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131185.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93588.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93589.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72019.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72020.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72021.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/108684.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93592.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131184.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131148.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131162.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131111.ts
+#EXTINF:-1,Globo Rede Bahia FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131213.ts
+#EXTINF:-1,Globo Rede Bahia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131123.ts
+#EXTINF:-1,Globo Rede Bahia SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72024.ts
+#EXTINF:-1,Globo RJ FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72025.ts
+#EXTINF:-1,Globo RJ HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131163.ts
+#EXTINF:-1,Globo RJ SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131182.ts
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133058.ts
+#EXTINF:-1,Globo RPC Cascavel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133059.ts
+#EXTINF:-1,Globo RPC Cascavel SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133060.ts
+#EXTINF:-1,Globo RPC Londrina FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133061.ts
+#EXTINF:-1,Globo RPC Londrina HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133062.ts
+#EXTINF:-1,Globo RPC Londrina SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133063.ts
+#EXTINF:-1,Globo RPC Paranavai FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72028.ts
+#EXTINF:-1,Globo RPC Paranavai HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131170.ts
+#EXTINF:-1,Globo RPC Paranavai SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131197.ts
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131199.ts
+#EXTINF:-1,Globo RPC TV Curitiba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72626.ts
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131127.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131149.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72033.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131206.ts
+#EXTINF:-1,Globo RPC TV Maringa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131101.ts
+#EXTINF:-1,Globo RPC TV Maringa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/96888.ts
+#EXTINF:-1,Globo RPC TV Maringa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131125.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131133.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72037.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131189.ts
+#EXTINF:-1,Globo SP FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72040.ts
+#EXTINF:-1,Globo SP FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/131215.ts
+#EXTINF:-1,Globo SP HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131212.ts
+#EXTINF:-1,Globo SP SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72042.ts
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72043.ts
+#EXTINF:-1,Globo TV Anhanguera HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131166.ts
+#EXTINF:-1,Globo TV Anhanguera SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131124.ts
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/102554.ts
+#EXTINF:-1,Globo TV Asa Branca HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/102555.ts
+#EXTINF:-1,Globo TV Asa Branca SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131180.ts
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131146.ts
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131110.ts
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131179.ts
+#EXTINF:-1,Globo TV Centro America FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72049.ts
+#EXTINF:-1,Globo TV Centro America HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72050.ts
+#EXTINF:-1,Globo TV Centro America SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72051.ts
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131105.ts
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72053.ts
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131196.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131100.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97596.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97597.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97587.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/97588.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131177.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131158.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131214.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131142.ts
+#EXTINF:-1,Globo TV Gazeta Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131099.ts
+#EXTINF:-1,Globo TV Gazeta Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72059.ts
+#EXTINF:-1,Globo TV Gazeta Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72060.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72061.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131154.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131175.ts
+#EXTINF:-1,Globo TV Integracao Araxa FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131203.ts
+#EXTINF:-1,Globo TV Integracao Araxa HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131126.ts
+#EXTINF:-1,Globo TV Integracao Araxa SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131140.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72067.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72068.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131106.ts
+#EXTINF:-1,Globo TV Integracao Uberaba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133052.ts
+#EXTINF:-1,Globo TV Integracao Uberaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133053.ts
+#EXTINF:-1,Globo TV Integracao Uberaba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133054.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133051.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93598.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93599.ts
+#EXTINF:-1,Globo TV Liberal Belem FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131152.ts
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72071.ts
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72072.ts
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133050.ts
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93600.ts
+#EXTINF:-1,Globo TV Mirante Cocais SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93601.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131103.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72074.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131195.ts
+#EXTINF:-1,Globo TV Morena FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72076.ts
+#EXTINF:-1,Globo TV Morena HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131169.ts
+#EXTINF:-1,Globo TV Morena SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131122.ts
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72079.ts
+#EXTINF:-1,Globo TV Rio Sul HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131128.ts
+#EXTINF:-1,Globo TV Rio Sul SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72082.ts
+#EXTINF:-1,Globo TV Sergipe FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131156.ts
+#EXTINF:-1,Globo TV Sergipe HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131181.ts
+#EXTINF:-1,Globo TV Sergipe SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131139.ts
+#EXTINF:-1,Globo TV Subae  HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133068.ts
+#EXTINF:-1,Globo TV Subae FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133067.ts
+#EXTINF:-1,Globo TV Subae SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/133069.ts
+#EXTINF:-1,Globo TV Sudoeste FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72092.ts
+#EXTINF:-1,Globo TV Sudoeste HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72093.ts
+#EXTINF:-1,Globo TV Sudoeste SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72094.ts
+#EXTINF:-1,Globo TV TEM Bauru FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91431.ts
+#EXTINF:-1,Globo TV TEM Bauru HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91432.ts
+#EXTINF:-1,Globo TV TEM Bauru SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131120.ts
+#EXTINF:-1,Globo TV TEM Itapetininga FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91435.ts
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91436.ts
+#EXTINF:-1,Globo TV TEM Itapetininga SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131119.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131155.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91434.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131205.ts
+#EXTINF:-1,Globo TV TEM Sorocaba FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131191.ts
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/91439.ts
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131194.ts
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131135.ts
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131165.ts
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131109.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131211.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/144027.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72624.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/100375.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/93605.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131187.ts
+#EXTINF:-1,Globo TV Verdes Mares 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/72080.ts
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131161.ts
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72096.ts
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/131137.tsEXTINF:-1,Futura 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103499.ts
+#EXTINF:-1,Futura FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71962.ts
+#EXTINF:-1,Futura FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71963.ts
+#EXTINF:-1,Futura HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71964.ts
+#EXTINF:-1,Futura SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71965.ts#EXTINF:-1,ESPN 2 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/71921.ts
+#EXTINF:-1,ESPN 2 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71919.ts
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71920.ts
+#EXTINF:-1,ESPN 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71922.ts
+#EXTINF:-1,ESPN 2 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71923.ts
+#EXTINF:-1,ESPN 3 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103504.ts
+#EXTINF:-1,ESPN 3 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71907.ts
+#EXTINF:-1,ESPN 3 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71908.ts
+#EXTINF:-1,ESPN 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71909.ts
+#EXTINF:-1,ESPN 3 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71910.ts
+#EXTINF:-1,ESPN 4 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/71959.ts
+#EXTINF:-1,ESPN 4 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71957.ts
+#EXTINF:-1,ESPN 4 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71958.ts
+#EXTINF:-1,ESPN 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71960.ts
+#EXTINF:-1,ESPN 4 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71961.ts
+#EXTINF:-1,ESPN 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/90640.ts
+#EXTINF:-1,ESPN 6 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103505.ts
+#EXTINF:-1,ESPN 6 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71915.ts
+#EXTINF:-1,ESPN 6 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71916.ts
+#EXTINF:-1,ESPN 6 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71917.ts
+#EXTINF:-1,ESPN 6 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71918.ts
+#EXTINF:-1,ESPN FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71911.ts
+#EXTINF:-1,ESPN FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71912.ts
+#EXTINF:-1,ESPN HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71913.ts
+#EXTINF:-1,ESPN SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71914.ts
+#EXTINF:-1,Caze TV FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/76671.ts
+#EXTINF:-1,Eurochannel FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104910.ts
+#EXTINF:-1,Eurochannel FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/104913.ts
+#EXTINF:-1,Eurochannel HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104911.ts
+#EXTINF:-1,Eurochannel SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104912.ts
+#EXTINF:-1,FashionTV 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103503.ts
+#EXTINF:-1,FashionTV FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71924.ts
+#EXTINF:-1,FashionTV FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71925.ts
+#EXTINF:-1,FashionTV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71926.ts
+#EXTINF:-1,FashionTV SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71927.ts
+#EXTINF:-1,Film&Arts FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104914.ts
+#EXTINF:-1,Film&Arts FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/104920.ts
+#EXTINF:-1,Film&Arts 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/178518.ts
+#EXTINF:-1,Film&Arts HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104915.ts
+#EXTINF:-1,Film&Arts SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/104916.ts
+#EXTINF:-1,Fish TV 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103502.ts
+#EXTINF:-1,Fish TV FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71928.ts
+#EXTINF:-1,Fish TV FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71929.ts
+#EXTINF:-1,Fish TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71930.ts
+#EXTINF:-1,Fish TV SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71931.ts
+#EXTINF:-1,Food Network 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/103501.ts
+#EXTINF:-1,Food Network FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71932.ts
+#EXTINF:-1,Food Network FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71933.ts
+#EXTINF:-1,Food Network HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71934.ts
+#EXTINF:-1,Food Network SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71935.ts
+#EXTINF:-1,Formula 1 TV FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71947.ts
+#EXTINF:-1,Formula 1 TV HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71949.ts
+#EXTINF:-1,Formula 1 TV SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71950.ts
+#EXTINF:-1,ESPN 5 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/71954.ts
+#EXTINF:-1,ESPN 5 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71952.ts
+#EXTINF:-1,ESPN 5 [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/71953.ts
+#EXTINF:-1,ESPN 5 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71955.ts
+#EXTINF:-1,ESPN 5 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71956.tsEXTINF:-1,SportyNet 1 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/184572.ts
+#EXTINF:-1,SportyNet 1 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184569.ts
+#EXTINF:-1,SportyNet 1 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/184573.ts
+#EXTINF:-1,SportyNet 1 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184570.ts
+#EXTINF:-1,SportyNet 1 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184571.ts
+#EXTINF:-1,SportyNet 2 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/184577.ts
+#EXTINF:-1,SportyNet 2 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184574.ts
+#EXTINF:-1,SportyNet 2 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/184578.ts
+#EXTINF:-1,SportyNet 2 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184575.ts
+#EXTINF:-1,SportyNet 2 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184576.ts
+#EXTINF:-1,SportyNet 3 4K
+http://tjtor8411.com:80/Osiel123/Felicidade321/184582.ts
+#EXTINF:-1,SportyNet 3 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184579.ts
+#EXTINF:-1,SportyNet 3 FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/184583.ts
+#EXTINF:-1,SportyNet 3 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184580.ts
+#EXTINF:-1,SportyNet 3 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184581.ts
+#EXTINF:-1,SportyNet 4 FHD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184584.ts
+#EXTINF:-1,SportyNet FHD [H265]
+http://tjtor8411.com:80/Osiel123/Felicidade321/184587.ts
+#EXTINF:-1,SportyNet 4 HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184585.ts
+#EXTINF:-1,SportyNet 4 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/184586.ts
