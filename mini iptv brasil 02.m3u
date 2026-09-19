@@ -1,12 +1,13 @@
 #EXTM3U
-#EXTINF:-1,TV CULTURA PA
+#EXTINF:-1,TV Cultura HD Belém
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1,RBATV BELEM
+#EXTINF:-1,RBATV Belém Pará
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-
-#EXTINF:-1,PREMIERE 2 SD
-http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4887
-
-#EXTINF:-1,PREMIERE 1 SD
-http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4892
+#EXTINF:-1,TV Cultura HD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71853.ts
+#EXTINF:-1,TV Cultura SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/71854.ts
+#EXTINF:-1,Premiere 2 SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72240.ts
+#EXTINF:-1,Premiere Clubes SD
+http://tjtor8411.com:80/Osiel123/Felicidade321/72266.ts
